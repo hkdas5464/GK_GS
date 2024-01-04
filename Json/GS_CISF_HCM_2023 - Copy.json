@@ -1,0 +1,407 @@
+[
+ {
+  "ID": 1,
+  "QUESTIONS": "Which of the following is the autobiography of Dr APJ Abdul Kalam?",
+  "ANSWER": "Wings of Fire"
+ },
+ {
+  "ID": 2,
+  "QUESTIONS": "When was Khilafat Day celebrated all over India?",
+  "ANSWER": "19th October 1919"
+ },
+ {
+  "ID": 3,
+  "QUESTIONS": "Which of the following is the second largest Mangrove Ecosystem in India?",
+  "ANSWER": "Bhitarkanika National Park"
+ },
+ {
+  "ID": 4,
+  "QUESTIONS": "Where was the headquarters of the Theosophical Society established in India?",
+  "ANSWER": "Adyar"
+ },
+ {
+  "ID": 5,
+  "QUESTIONS": "Which vitamin is considered as a hormone?",
+  "ANSWER": "Vitamin D"
+ },
+ {
+  "ID": 6,
+  "QUESTIONS": "In which year was the Pradhan Mantri Vaya Vandana schemelaunched?",
+  "ANSWER": 2017
+ },
+ {
+  "ID": 7,
+  "QUESTIONS": "Mark the origin of Teesta river from the options given below",
+  "ANSWER": "Tso Lhamo Lake"
+ },
+ {
+  "ID": 8,
+  "QUESTIONS": "In which year the first census started in India?",
+  "ANSWER": 1872
+ },
+ {
+  "ID": 9,
+  "QUESTIONS": "How much security deposit has to be tendered by a candidate contesting for the post of President of India?",
+  "ANSWER": "15000\/-"
+ },
+ {
+  "ID": 10,
+  "QUESTIONS": "Select the correct option related to the first President of All India Trade Union Congress.",
+  "ANSWER": "Lala Lajpat Rai"
+ },
+ {
+  "ID": 11,
+  "QUESTIONS": "Select the language spoken by the Indian tribes from the options given below:-",
+  "ANSWER": "Bhumij"
+ },
+ {
+  "ID": 12,
+  "QUESTIONS": " Boita Bandana festival ' belongs to which state?",
+  "ANSWER": "Odisha"
+ },
+ {
+  "ID": 13,
+  "QUESTIONS": "Where has India's first telecom network link based on quantum computing been launched recently?",
+  "ANSWER": "New Delhi"
+ },
+ {
+  "ID": 14,
+  "QUESTIONS": "Which is the most spoken language in India?",
+  "ANSWER": "Hindi"
+ },
+ {
+  "ID": 15,
+  "QUESTIONS": "According to the 2011 census, which state is not included in the top five states with the highest literacy percentage?",
+  "ANSWER": "Andhra Pradesh"
+ },
+ {
+  "ID": 16,
+  "QUESTIONS": "By which constitutional amendment, primary education of children in the age group of 6 to 14 came under fundamental right?",
+  "ANSWER": "86th Amendment"
+ },
+ {
+  "ID": 17,
+  "QUESTIONS": "What is the abbreviation of 'SDR' ?",
+  "ANSWER": "Standard Drawing Rights"
+ },
+ {
+  "ID": 18,
+  "QUESTIONS": "What is the source of inspiration for the words liberty, equality and fraternity mentioned in the Preamble?",
+  "ANSWER": "French Revolution"
+ },
+ {
+  "ID": 19,
+  "QUESTIONS": "On which date 'National Statistics Day' is celebrated every year?",
+  "ANSWER": "29th June"
+ },
+ {
+  "ID": 20,
+  "QUESTIONS": "Which of the following constitutional body was established on 25 January 1950?",
+  "ANSWER": "Election Commission of India"
+ },
+ {
+  "ID": 21,
+  "QUESTIONS": "What is the percentage of urban population ( 2011 ) in India? (Based on 2011 census)",
+  "ANSWER": 0.3116
+ },
+ {
+  "ID": 22,
+  "QUESTIONS": "Which is the first state in India where every household has been ensured at least one bank account?",
+  "ANSWER": "Kerala"
+ },
+ {
+  "ID": 23,
+  "QUESTIONS": "Which date is celebrated as Hindi Divas?",
+  "ANSWER": "14th September"
+ },
+ {
+  "ID": 24,
+  "QUESTIONS": "Under which ministry does the census organization work?",
+  "ANSWER": "Ministry of Home Affairs"
+ },
+ {
+  "ID": 25,
+  "QUESTIONS": "The 76th edition of Santosh Trophy was held at which of the following places?",
+  "ANSWER": "Riyadh"
+ },
+ {
+  "ID": 26,
+  "QUESTIONS": "Which among the following Tiger reserve located in Arunachal Pradesh?",
+  "ANSWER": "Namdapha"
+ },
+ {
+  "ID": 27,
+  "QUESTIONS": "Vande Mataram' was sung for the first time in the Calcutta session of the Congress under whose chairmanship?",
+  "ANSWER": "Rahmatullah M. Sayani"
+ },
+ {
+  "ID": 28,
+  "QUESTIONS": "The provision regarding nomination of the persons of eminence in the field of literature, art, science etc. by the President in the Rajya Sabha has been taken from the constitution of which country?",
+  "ANSWER": "Ireland"
+ },
+ {
+  "ID": 29,
+  "QUESTIONS": "With which sport is the recent popular sportsperson 'Hashika Ramachandran' associated?",
+  "ANSWER": "Swimming"
+ },
+ {
+  "ID": 30,
+  "QUESTIONS": "Which among the following launched the “Learning Science through Standards” initiative?",
+  "ANSWER": "Bureau of Indian Standards"
+ },
+ {
+  "ID": 31,
+  "QUESTIONS": "Harishchandra Mukherjee' was the editor of which magazine?",
+  "ANSWER": "Hindu Patriot"
+ },
+ {
+  "ID": 32,
+  "QUESTIONS": "Folic acid' is the chemical name of which of the following vitamins?",
+  "ANSWER": "Vitamin B11"
+ },
+ {
+  "ID": 33,
+  "QUESTIONS": "Why did 'Usha Mehta' become very famous in the Indian freedom struggle?",
+  "ANSWER": "For running secret radio service during Quit India Movement"
+ },
+ {
+  "ID": 34,
+  "QUESTIONS": "Which Indian robot has been developed by ISRO?",
+  "ANSWER": "Vyom mitra"
+ },
+ {
+  "ID": 35,
+  "QUESTIONS": "Who is the source of all the powers under the constitution in the 'Preamble' ?",
+  "ANSWER": "We the people of India"
+ },
+ {
+  "ID": 36,
+  "QUESTIONS": "Which among the following is a volcanic lake?",
+  "ANSWER": "Lonar Lake"
+ },
+ {
+  "ID": 37,
+  "QUESTIONS": "In which year the National Sample Survey Organization was established to collect socio economic data employing scientific sampling methods?",
+  "ANSWER": "1950 AD"
+ },
+ {
+  "ID": 38,
+  "QUESTIONS": "Under which article the provision of facility of education in mother tongue at the primary level has been made?",
+  "ANSWER": "Article 350 A"
+ },
+ {
+  "ID": 39,
+  "QUESTIONS": "Beti Bachao Beti Padhao' scheme has been launched under which ministry?",
+  "ANSWER": "Ministry of Women and Child Development"
+ },
+ {
+  "ID": 40,
+  "QUESTIONS": "Choose the Constitutional Amendment related to Fundamental Duties from the following options:-",
+  "ANSWER": "42nd"
+ },
+ {
+  "ID": 41,
+  "QUESTIONS": "Which of the following operation has been launched by the Railway Protection Force to save women and children from trafficking?",
+  "ANSWER": "Operation AAHT"
+ },
+ {
+  "ID": 42,
+  "QUESTIONS": "India's largest stem cell manufacturing lab has been set up in which of the following city?",
+  "ANSWER": "Hyderabad"
+ },
+ {
+  "ID": 43,
+  "QUESTIONS": "Which is the highest peak of South India?",
+  "ANSWER": "Anaimudi"
+ },
+ {
+  "ID": 44,
+  "QUESTIONS": "Which of the following states has the highest percentage of rural population (Based on 2011 census)",
+  "ANSWER": "Uttar Pradesh"
+ },
+ {
+  "ID": 45,
+  "QUESTIONS": "To which language family does Sanskrit language belong?",
+  "ANSWER": "Indo-European"
+ },
+ {
+  "ID": 46,
+  "QUESTIONS": "In which state is \"Yeshwant Sagar\" located?",
+  "ANSWER": "Madhya Pradesh"
+ },
+ {
+  "ID": 47,
+  "QUESTIONS": "Which language is spoken most in India after Hindi?",
+  "ANSWER": "Bengali"
+ },
+ {
+  "ID": 48,
+  "QUESTIONS": "Which of the following sportsperson is related to\" Mallakhamba \"?",
+  "ANSWER": "Sagar Kailas Ovalkar"
+ },
+ {
+  "ID": 49,
+  "QUESTIONS": "In which year the practice of \"Sati \"was declared prohibited?",
+  "ANSWER": 1829
+ },
+ {
+  "ID": 50,
+  "QUESTIONS": "Which writer was the first to be awarded the Jnanpith Award for English Literature?",
+  "ANSWER": "Amitabh Ghosh"
+ },
+ {
+  "ID": 51,
+  "QUESTIONS": "Which of the following states of India is the abode of the Tharu trib",
+  "ANSWER": "Uttrakhand"
+ },
+ {
+  "ID": 52,
+  "QUESTIONS": "Who was the delegate who participated in all the three Round Table Conferences organized to consider the Simon Report?",
+  "ANSWER": "Tej Bahadur Sapru"
+ },
+ {
+  "ID": 53,
+  "QUESTIONS": "Which of the following is the place related to the first session of the Indian National Congress?",
+  "ANSWER": "Bombay"
+ },
+ {
+  "ID": 54,
+  "QUESTIONS": "Which part of the Indian Constitution has been given the name of the most enlightened part by Dr. Bhimrao Ambedkar?",
+  "ANSWER": "Part III"
+ },
+ {
+  "ID": 55,
+  "QUESTIONS": "What is meant by\" Victoria Regia\"?",
+  "ANSWER": "The plant with the largest leaves"
+ },
+ {
+  "ID": 56,
+  "QUESTIONS": "Who among the following presided over the 1917 Calcutta session of the Indian National Congress?",
+  "ANSWER": "Annie Besant"
+ },
+ {
+  "ID": 57,
+  "QUESTIONS": "Select the committee related to the reform of banking structure from the following options :-",
+  "ANSWER": "Narsimham Committee"
+ },
+ {
+  "ID": 58,
+  "QUESTIONS": "Which of the following states has the lowest percentage of male literacy (as per 2011 census ) ?",
+  "ANSWER": "Bihar"
+ },
+ {
+  "ID": 59,
+  "QUESTIONS": "Under which movement was the slogan of 'Do or Die' given by Mahatma Gandhi?",
+  "ANSWER": "Quit India Movement"
+ },
+ {
+  "ID": 60,
+  "QUESTIONS": "Who among the following has the constitutional right to declare any geographical area as a scheduled area?",
+  "ANSWER": "Finance Ministry"
+ },
+ {
+  "ID": 61,
+  "QUESTIONS": "What is the rank of India in the Global 'Bribery Risk Ranking 2021' released by TRACE organization?",
+  "ANSWER": "82nd"
+ },
+ {
+  "ID": 62,
+  "QUESTIONS": "To which of the following linguistic groups does the majority of the Indian population belong?",
+  "ANSWER": "Indo-Aryan"
+ },
+ {
+  "ID": 63,
+  "QUESTIONS": "Who has developed the indigenous anti collision system 'Kavach' to prevent rail accidents?",
+  "ANSWER": "Indian Railway"
+ },
+ {
+  "ID": 64,
+  "QUESTIONS": "Udar Shakti exercise 2022' was organized between the air forces of India and which country?",
+  "ANSWER": "Malaysia"
+ },
+ {
+  "ID": 65,
+  "QUESTIONS": "n which state is Sankhya Sagar, one of the Ramsar sites of India, located?",
+  "ANSWER": "Madhya Pradesh"
+ },
+ {
+  "ID": 66,
+  "QUESTIONS": "Which language was classified as an Classical language in the year 2014?",
+  "ANSWER": "Odia"
+ },
+ {
+  "ID": 67,
+  "QUESTIONS": "Under which of the following schemes of the Government of India, there is a provision to provide pension of up to rupees 3000 every month to the beneficiaries after the age of 60 years",
+  "ANSWER": "Pradhan Mantri Shram Yogi Maandhan Scheme"
+ },
+ {
+  "ID": 68,
+  "QUESTIONS": "hat is the rank of Indian Air Force in terms of total combat capability in the 'World Air Power Index 2022' released by WDMMA?",
+  "ANSWER": ". 3rd"
+ },
+ {
+  "ID": 69,
+  "QUESTIONS": "In which language was the newspaper 'Samvad Kaumudi' published?",
+  "ANSWER": "Bengali"
+ },
+ {
+  "ID": 70,
+  "QUESTIONS": "Which is the protein found in wheat?",
+  "ANSWER": "Gluten"
+ },
+ {
+  "ID": 71,
+  "QUESTIONS": "Bonalu Festival' is celebrated with great enthusiasm in which state of India?",
+  "ANSWER": "Telangana"
+ },
+ {
+  "ID": 72,
+  "QUESTIONS": "hich of the following is the main reason related to the progressive population growth in India?",
+  "ANSWER": "Reduction in death rate due to health facilities"
+ },
+ {
+  "ID": 73,
+  "QUESTIONS": "Zuari' is an important river of which of the following state?",
+  "ANSWER": "Goa"
+ },
+ {
+  "ID": 74,
+  "QUESTIONS": "By whom was the Bahishkrit Hitkarini Sabha formed for the upliftment of the depressed class?",
+  "ANSWER": "Dr. B R Ambedkar"
+ },
+ {
+  "ID": 75,
+  "QUESTIONS": "The provision of \"Fundamental Rights\" in the Indian Constitution has been taken from the Constitution of which country?",
+  "ANSWER": "USA"
+ },
+ {
+  "ID": 76,
+  "QUESTIONS": "Which year is related to the establishment of Reserve Bank of India?",
+  "ANSWER": 1935
+ },
+ {
+  "ID": 77,
+  "QUESTIONS": "On the recommendation of which committee the establishment of the National Statistical Commission was approved ?",
+  "ANSWER": "C Rangarajan Committee"
+ },
+ {
+  "ID": 78,
+  "QUESTIONS": "Badruddin Tyabji, the first Muslim president to preside over the Congress, is associated with which of the following sessions?",
+  "ANSWER": "Madras Session 1887"
+ },
+ {
+  "ID": 79,
+  "QUESTIONS": "Under which article the provision of equal pay for equal work has been made in the Directive Principles?",
+  "ANSWER": "Article 39 D"
+ },
+ {
+  "ID": 80,
+  "QUESTIONS": "Lovlina Borgohain is associated with which of the following sports?",
+  "ANSWER": "Boxing"
+ },
+ {
+  "ID": 81,
+  "QUESTIONS": "The play “Mahabali” is written by which author?",
+  "ANSWER": "Asghar Wajahat"
+ }
+]
